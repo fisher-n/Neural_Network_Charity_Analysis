@@ -20,4 +20,4 @@ Steps taken to increase the preformance:
 - Second attempt added additional neurons to hidden layers and additional hidden layers were added. The accuracy went down again to 49%
 
 ## Summary
-The model ended up with decreased accuracy with more optimization. Further optimization to increase accuracy could be by removing more features, adding random forest classifers. 
+The model ended up with decreased accuracy with more optimization. The model ended up with a 50% accuracy after the optimization. The inital neural network has an accuracy of 75%. Further optimization to increase accuracy could be by removing more features, adding random forest classifers. The random forest models process faster than neural networks and could have avoided the overfitting of data.
